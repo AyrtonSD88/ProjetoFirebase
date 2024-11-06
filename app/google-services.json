@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16417163917",
+    "project_id": "projetofirebasenovo",
+    "storage_bucket": "projetofirebasenovo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16417163917:android:c97bb615b4d2396f4070c4",
+        "android_client_info": {
+          "package_name": "com.example.atividade_firebasefirestore_ii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOxCWzQ3zaEMLEfLtYLGADF9MykvQCntI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16417163917:android:47d97a06915fb3a34070c4",
+        "android_client_info": {
+          "package_name": "com.example.projetofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOxCWzQ3zaEMLEfLtYLGADF9MykvQCntI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
